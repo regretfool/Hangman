@@ -20,5 +20,5 @@ changed all user inputs to lowercase so it is easier to compare to the guessed w
 used this to make sure user entered only letters. Worked with ascii_lowercase since I already made everything into lowercase with .lower() (feels logical, semantically correct and probably gives faster results, even though it's not noticeable on a project of such small scale I assume it's good practice).
 
 ### To do:
-- [ ] Refactor code, use clean code principles (especially tip 1 from this `https://www.youtube.com/watch?v=wSDyiEjhp8k` and "throw errors as fast as possible")
-- [ ] Write cleaner comments
+- [x] ~~Refactor code, use clean code principles (especially tip 1 from this `https://www.youtube.com/watch?v=wSDyiEjhp8k` and "throw errors as fast as possible")~~
+- [x] ~~Write cleaner comments~~
