@@ -1,4 +1,3 @@
-###### My first fully completed project in Python.
 # Hangman game
 With this project I've strengthened my knowledge about conditional statements, loops, lists and working with strings. I've also used the `random` built-in library to choose a random word from a list (could expand it into working with files) and the `string` library for validation (allowing only letters as input).
 
